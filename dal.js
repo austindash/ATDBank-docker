@@ -1,5 +1,5 @@
 const MongoClient = require('mongodb').MongoClient;
-const url         = 'mongodb://mongo:27017/docker-node-mongo';
+const url         = 'mongodb+srv://austindash:Heyjack3@mongo-atd.kcipe.mongodb.net/?retryWrites=true&w=majority';
 let db            = null;
  
 // connect to mongo
